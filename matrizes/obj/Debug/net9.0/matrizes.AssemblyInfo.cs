@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("matrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbcc2d9fac40b78bcd82a0ba422edae4a6a29c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("matrizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("matrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
